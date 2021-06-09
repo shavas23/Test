@@ -1,6 +1,6 @@
 def Git_Test():
 
-    print ("Test")
+    print ("PUll")
     
 Git_Test()
 
