@@ -1,7 +1,7 @@
-def Git_Test():
+def PR():
 
-    print ("PUll")
-    
-Git_Test()
+    print (" Create PR Request")
+
+
 
 
