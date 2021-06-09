@@ -1,4 +1,4 @@
 def Git_Test():
-    print ("Test")
+   print ("Pull Test")
 
 Git_Test()
